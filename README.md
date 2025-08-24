@@ -4,7 +4,7 @@ A NES emulator 100% written in Rust
 
 ## Overview
 
-This project is my first big coding project and also my first emulator (I'm not counting my Chip8 emulator because it was very simple compared to this one).
+This project is my first big coding project and also my first big emulator project.
 
 I chose Rust because it's fast and it's by far my favorite language. Also all the code is 100% safe Rust!
 
